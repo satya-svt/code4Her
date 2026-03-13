@@ -18,7 +18,7 @@ export default function Landing() {
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <Briefcase className="h-6 w-6 text-primary" />
-            <span className="text-lg font-bold text-secondary">ReEntry</span>
+            <span className="text-lg font-bold text-secondary">SheReturns</span>
           </div>
           <div className="flex items-center gap-3">
             <button
