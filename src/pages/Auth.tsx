@@ -41,7 +41,7 @@ export default function Auth() {
         {/* Logo */}
         <div className="mb-8 flex items-center justify-center gap-2">
           <Briefcase className="h-7 w-7 text-primary" />
-          <span className="text-xl font-bold text-secondary">ReEntry</span>
+          <span className="text-xl font-bold text-secondary">ThriveReturn</span>
         </div>
 
         <div className="rounded-xl border bg-surface p-8 shadow-sm">
